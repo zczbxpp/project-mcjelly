@@ -1,0 +1,5 @@
+name: mcjelly-bukkit-itemshop
+version: '1.0'
+main: pl.zczb.Itemshop
+api-version: '1.19'
+softdepend: [PlaceholderAPI,mcjelly-global-controller]

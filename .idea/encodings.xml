@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Bungee-platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bungee-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Global-platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Global-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Itemshop-platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Itemshop-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lobby-platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lobby-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Skygen-platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Skygen-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashblock-platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashblock-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-arenas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-arenas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-cases/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-cases/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-cashblock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-cashblock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-igrzyska/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-igrzyska/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-itemshop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-itemshop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-lobby/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-lobby/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-bukkit-tools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-global-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-global-controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-velocity-tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcjelly-velocity-tools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$APPLICATION_HOME_DIR$/bin/src/main/java" charset="UTF-8" />
+    <file url="file://$APPLICATION_HOME_DIR$/bin/src/main/resources" charset="UTF-8" />
+    <file url="file://$APPLICATION_HOME_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$APPLICATION_HOME_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+{
+  "id": "velocity-controller",
+  "name": "velocity-controller",
+  "version": "1.0",
+  "main": "pl.zczb.Velocity",
+  "authors": ["zczbi"]
+}

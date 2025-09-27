@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <artifactId>zczb-core</artifactId>
+
+  <groupId>pl.zczb</groupId>
+  <modelVersion>4.0.0</modelVersion>
+  <modules>
+    <module>mcjelly-global-controller</module>
+    <module>mcjelly-bukkit-tools</module>
+    <module>mcjelly-velocity-tools</module>
+
+    <module>mcjelly-bukkit-itemshop</module>
+
+    <module>mcjelly-bukkit-lobby</module>
+    <module>mcjelly-bukkit-cashblock</module>
+  </modules>
+  <packaging>pom</packaging>
+  <properties>
+    <maven.compiler.source>16</maven.compiler.source>
+    <maven.compiler.target>16</maven.compiler.target>
+  </properties>
+  <version>1.0</version>
+</project>

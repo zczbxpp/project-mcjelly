@@ -1,0 +1,6 @@
+name: mcjelly-bukkit-tools
+version: '1.0'
+main: pl.zczb.Tools
+api-version: '1.16'
+depend: [WorldGuard, mcjelly-global-controller]
+softdepend: [PlaceholderAPI, LuckPerms, mcjelly-bukkit-itemshop, mcjelly-bukkit-cashblock]

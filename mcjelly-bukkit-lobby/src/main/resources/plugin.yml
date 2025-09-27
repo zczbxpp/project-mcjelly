@@ -1,0 +1,5 @@
+name: mcjelly-bukkit-lobby
+version: '1.0-SNAPSHOT'
+main: pl.zczb.Lobby
+api-version: '1.19'
+softdepend: [PlaceholderAPI,mcjelly-global-controller,ProtocolLib]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="org.bukkit.event.EventHandler" />
+      <item index="1" class="java.lang.String" itemvalue="com.velocitypowered.api.event.Subscribe" />
+      <item index="2" class="java.lang.String" itemvalue="com.velocitypowered.api.plugin.Plugin" />
+    </list>
+    <writeAnnotations>
+      <writeAnnotation name="lombok.Getter" />
+    </writeAnnotations>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/Lobby-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/Global-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/Bungee-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/Skygen-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/mcjelly-bukkit-tools/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Global-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/mcjelly-bukkit-arenas/pom.xml" />
+        <option value="$PROJECT_DIR$/mcjelly-bukkit-cases/pom.xml" />
+        <option value="$PROJECT_DIR$/mcjelly-bukkit-igrzyska/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

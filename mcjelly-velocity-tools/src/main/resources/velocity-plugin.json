@@ -1,0 +1,8 @@
+{
+  "id": "mcjelly-velocity-tools",
+  "name": "mcjelly-velocity-tools",
+  "version": "1.0",
+  "main": "pl.zczb.Velocity",
+  "authors": ["zczbi"],
+  "dependencies": ["mcjelly-global-controller"]
+}

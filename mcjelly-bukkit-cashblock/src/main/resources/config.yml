@@ -1,0 +1,84 @@
+brushes:
+  1x1:
+    name: "&d✦ &5&lBrush &d&l1x1 &7(Poziom I) &d✦"
+    lore:
+      - "&7Poziom brusha: &7(1/5)"
+      - ""
+      - "&4UWAGA: &cJest to najcenniejszy przedmiot na serwerze"
+      - "&cBrusha możesz ulepszyć pod komendą /kowal"
+      - ""
+    type: BLAZE_ROD
+    dynamic_area:
+      x: 0
+      y: 0
+      z: 0
+  3x3:
+    name: "&d✦ &5&lBrush &d&l3x3 &7(Poziom II) &d✦"
+    lore:
+      - "&7Poziom brusha: &7(2/5)"
+      - ""
+      - "&4UWAGA: &7Jest to najcenniejszy przedmiot na serwerze"
+      - "&7Brusha możesz ulepszyć pod komendą /kowal"
+      - ""
+    type: BLAZE_ROD
+    dynamic_area:
+      x: 1
+      y: 1
+      z: 1
+  5x5:
+    name: "&d✦ &5&lBrush &d&l5x5 &7(Poziom III) &d✦"
+    lore:
+      - "&7Poziom brusha: &7(3/5)"
+      - ""
+      - "&4UWAGA: &7Jest to najcenniejszy przedmiot na serwerze"
+      - "&7Brusha możesz ulepszyć pod komendą /kowal"
+      - ""
+    type: BLAZE_ROD
+    dynamic_area:
+      x: 2
+      y: 2
+      z: 1
+  7x7:
+    name: "&d✦ &5&lBrush &d&l7x7 &7(Poziom IV) &d✦"
+    lore:
+      - "&7Poziom brusha: &7(4/5)"
+      - ""
+      - "&4UWAGA: &7Jest to najcenniejszy przedmiot na serwerze"
+      - "&7Brusha możesz ulepszyć pod komendą /kowal"
+      - ""
+    type: BLAZE_ROD
+    dynamic_area:
+      x: 3
+      y: 3
+      z: 1
+  9x9:
+    name: "&d✦ &5&lBrush &d&l9x9 &7(Poziom V) &d✦"
+    lore:
+      - "&7Poziom brusha: &7(5/5)"
+      - ""
+      - "&4UWAGA: &7Jest to najcenniejszy przedmiot na serwerze"
+      - "&7Brusha możesz ulepszyć pod komendą /kowal"
+      - ""
+    type: BLAZE_ROD
+    dynamic_area:
+      x: 10
+      y: 10
+      z: 10
+  test:
+    name: "&d✦ &5&lBrush &d&l3x3 &7(Testowy) &d✦"
+    lore:
+      - "&7Poziom brusha: &7(2/5)"
+      - ""
+      - "&4UWAGA: &7Jest to najcenniejszy przedmiot na serwerze"
+      - "&7Jest to brush testowy na stale kup na mcjelly.pl"
+      - ""
+    type: BLAZE_ROD
+    dynamic_area:
+      x: 10
+      y: 10
+      z: 10
+blocked: # bloki ktorych nie moze zniszczyc brush
+  - BEDROCK
+
+# Czy mozna wyrzucac/wrzucac do skrzynki brushaa?
+enableBrushDrop: false

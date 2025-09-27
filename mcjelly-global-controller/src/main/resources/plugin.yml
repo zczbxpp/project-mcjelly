@@ -1,0 +1,5 @@
+name: mcjelly-global-controller
+version: '1.0'
+main: pl.zczb.Spigot
+api-version: '1.19'
+author: zczbi
